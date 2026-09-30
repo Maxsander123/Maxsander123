@@ -3,7 +3,7 @@
 ## About Me
 
 - Apprentice @ United Internet -- IT Systems Integration
-- Helping with the automation of the IONOS Bare-Metal Platform (BSPO)
+- Helping with the automation of the IONOS Bare-Metal Platform
 - Building CLI tools and automation scripts in Python
 - Running a homelab with Raspberry Pi, Home Assistant & self-hosted services
 - Working daily with Kubernetes, Docker & Rancher
