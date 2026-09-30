@@ -1,25 +1,16 @@
-# Hey, ich bin Max 👋
+# Hey, I'm Max
 
-## 👋 About Me
+## About Me
 
-- 🎓 Azubi @ United Internet — Fachinformatiker Systemintegration
-- 🔧 Helfe bei der Automatisierung der IONOS Bare-Metal-Plattform (BSPO)
-- 🐍 Baue CLI-Tools und Automatisierungsskripte in Python
-- 🏠 Homelab mit Raspberry Pi, Home Assistant & self-hosted Services
-- ☸️ Arbeite täglich mit Kubernetes, Docker & Rancher
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxsander123/Maxsander123/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Maxsander123/Maxsander123/output/github-contribution-grid-snake.svg">
-</picture>
+- Apprentice @ United Internet -- IT Systems Integration
+- Helping with the automation of the IONOS Bare-Metal Platform (BSPO)
+- Building CLI tools and automation scripts in Python
+- Running a homelab with Raspberry Pi, Home Assistant & self-hosted services
+- Working daily with Kubernetes, Docker & Rancher
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Infrastructure & DevOps
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -46,7 +37,7 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
-### 🎮 Gaming
+### Gaming
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -59,10 +50,10 @@
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 ### [netbox-cli](https://github.com/Maxsander123/netbox-cli)
-> Python CLI tool zum Verwalten von Netcup VPS-Servern — Power-Control, Snapshots, Traffic-Monitoring & OAuth2-Auth
+> Python CLI tool for managing Netcup VPS servers -- power control, snapshots, traffic monitoring & OAuth2 auth
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Click](https://img.shields.io/badge/Click-CLI-green?style=flat-square)
@@ -70,26 +61,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Maxsander123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Maxsander123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsander123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Maxsander123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Maxsander123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 📬 Contact
+## Contact
 
-[![Email](https://img.shields.io/badge/Email-msander@united--internet.de-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msander@united-internet.de)
+[![Email](https://img.shields.io/badge/Email-mj__sander@web.de-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mj_sander@web.de)
 [![GitHub](https://img.shields.io/badge/GitHub-Maxsander123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maxsander123)
 
 ---
