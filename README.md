@@ -16,7 +16,7 @@ Apprentice at United Internet with a focus on infrastructure automation, bare-me
 
 ## Featured Project
 
-### [netbox-cli](https://github.com/Maxsander123/netbox-cli)
+### [netcup-cli](https://github.com/Maxsander123/netbox-cli)
 Python CLI tool for managing Netcup VPS servers via the Netcup API.
 
 **Features:**
