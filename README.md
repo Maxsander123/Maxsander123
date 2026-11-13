@@ -7,7 +7,7 @@ Apprentice at United Internet with a focus on infrastructure automation, bare-me
 ## About Me
 
 - Apprentice @ United Internet -- IT Systems Integration
-- Contributing to automation around the IONOS Bare-Metal Platform (BSPO)
+- Contributing to automation around the IONOS Bare-Metal Platform
 - Building CLI tools in Python for infrastructure tasks
 - Working with Cisco & Dell hardware, iDRAC, IPMI and KVM over IP
 - Running a homelab where I explore self-hosting, networking and container automation
