@@ -1,6 +1,6 @@
 # Hey, I'm Max
 
-Apprentice at United Internet with a focus on infrastructure automation, bare-metal operations and Python. I help build and automate the IONOS Bare-Metal Platform (BSPO) and run a personal homelab to explore container tech, networking and self-hosting.
+Apprentice at United Internet with a focus on infrastructure automation, bare-metal operations and Python. I help build and automate the IONOS Bare-Metal Platform and run a personal homelab to explore container tech, networking and self-hosting.
 
 ---
 
