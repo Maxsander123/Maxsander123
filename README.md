@@ -95,7 +95,11 @@ My homelab is where I test container setups, experiment with networking and run 
 Read more at [RGB Schnitzel](https://blog.rgb-schnitzel.de/).
 
 <!-- BLOG-POST-LIST:START -->
-Latest posts will appear here after the blog workflow runs.
+- [Kestrel OS 0.3.5-beta: ein Rechner, viele Bildschirme](https://blog.rgb-schnitzel.de/kestrel-os-0-3-5-beta-ein-rechner-viele-bildschirme/)
+- [Stupix: Hardwarediagnosen direkt vom Live-System](https://blog.rgb-schnitzel.de/stupix-hardwarediagnosen-direkt-vom-live-system/)
+- [netcup-cli: Netcup-Server und DNS direkt im Terminal verwalten](https://blog.rgb-schnitzel.de/netcup-cli-netcup-server-und-dns-direkt-im-terminal-verwalten/)
+- [Kestrel – ein Projekt nimmt Gestalt an](https://blog.rgb-schnitzel.de/kestrel-ein-projekt-nimmt-gestalt-an/)
+- [Hallo zusammen!](https://blog.rgb-schnitzel.de/hallo-zusammen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
