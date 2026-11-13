@@ -71,6 +71,35 @@ My homelab is where I test container setups, experiment with networking and run 
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxsander123&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsander123&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="170" />
+</p>
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxsander123/Maxsander123/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maxsander123/Maxsander123/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contributions snake" src="https://raw.githubusercontent.com/Maxsander123/Maxsander123/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## Latest Blog Posts
+
+Read more at [RGB Schnitzel](https://blog.rgb-schnitzel.de/).
+
+<!-- BLOG-POST-LIST:START -->
+Latest posts will appear here after the blog workflow runs.
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-mj__sander@web.de-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mj_sander@web.de)
